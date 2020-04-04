@@ -25,6 +25,8 @@ Solutions to questions on Scaler Academy topic wise
 |7| Inorder Traversal of Cartesian Tree | [Here](Codes/Trees/Inorder-Traversal-Of-Cartesian-Tree.cpp) |
 |8| Sum Root to Leaf Numbers | [Here](Codes/Trees/Sum-Root-To-Leaf-Numbers.cpp) | 
 |9| Populate Next Right Pointers Tree | [Here](/Codes/Trees/Populate-Next-Right-Pointers-Tree.cpp) |  
+|10| Shortest Unique Prefix | [Here](/Codes/Trees/Shortest-Unique-Prefix.cpp) |
+|11| Order of Peoples' Heights | [Here](/Codes/Trees/Order-Of-Peoples-Heights.cpp)|
 
 ## Contribute
 
