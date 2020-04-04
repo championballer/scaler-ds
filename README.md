@@ -7,8 +7,13 @@ Solutions to questions on Scaler Academy topic wise
 | ----- | -------- | -------- |
 | Maths |||
 || Rectangle Area | [Here]() |
+|| Trailing Zeros | [Here]() |
 | Two-Pointer|||
 ||  Count of pairs with the given sum | [Here]() |
+|| | Array 3 Pointers | [Here]() |
+|| Minimize the absolute difference | [Here]() | 
+|| Range booking | [Here]() | 
+|| Yuktapur | [Here]() |
 | Trees |||
 || 2-Sum-Binary-Tree | [Here]() | 
 || Balanced-Binary-Tree | [Here]() | 
