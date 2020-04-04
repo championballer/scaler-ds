@@ -10,7 +10,7 @@ Solutions to questions on Scaler Academy topic wise
 || Trailing Zeros | [Here]() |
 | Two-Pointer|||
 ||  Count of pairs with the given sum | [Here]() |
-|| | Array 3 Pointers | [Here]() |
+|| Array 3 Pointers | [Here]() |
 || Minimize the absolute difference | [Here]() | 
 || Range booking | [Here]() | 
 || Yuktapur | [Here]() |
@@ -19,3 +19,9 @@ Solutions to questions on Scaler Academy topic wise
 || Balanced-Binary-Tree | [Here]() | 
 || Check-for-BST-with-exactly-one-child-of-each-internal-nodes | [Here]() |
 || Convert-an-arbitrary-Binary-Tree-to-a-tree-that-holds-Children-Sum-Property | [Here]() || 
+|| Identical Binary Trees| [Here]() |
+|| Inorder Traversal | [Here]() |
+|| Invert Binary Tree | [Here]() |
+|| Inorder Traversal of Cartesian Tree | [Here]() |
+|| Sum Root to Leaf Numbers | [Here]() | 
+|| Populate Next Right Pointers Tree | [Here]() |  
