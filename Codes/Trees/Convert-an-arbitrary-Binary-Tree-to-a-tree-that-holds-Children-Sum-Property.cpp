@@ -36,6 +36,5 @@ TreeNode* Solution::solve(TreeNode* A) {
         if(A->left!=NULL)balance(A->left,abs(diff));
         else balance(A->right,abs(diff));
     }
-    
     return A;
 }

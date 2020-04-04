@@ -1,6 +1,6 @@
 ## Questions solved:
 
-| Question | Solution |
-| -------- | -------- | 
-| Rectangle Area | [Here]() | 
-| Trailing Zeros | [Here]() |
+| S.no | Question | Solution |
+| ---- | -------- | -------- | 
+|0| Rectangle Area | [Here]() | 
+|1| Trailing Zeros | [Here]() |

@@ -1,5 +1,3 @@
-//Time complexity -> O(N)
-
 string Solution::solve(vector<int> &A) {
     
     if(A.size()==0 || A.size()==1)return "YES";
