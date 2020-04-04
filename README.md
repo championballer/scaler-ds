@@ -25,3 +25,11 @@ Solutions to questions on Scaler Academy topic wise
 |7| Inorder Traversal of Cartesian Tree | [Here](Codes/Trees/Inorder-Traversal-Of-Cartesian-Tree.cpp) |
 |8| Sum Root to Leaf Numbers | [Here](Codes/Trees/Sum-Root-To-Leaf-Numbers.cpp) | 
 |9| Populate Next Right Pointers Tree | [Here](/Codes/Trees/Populate-Next-Right-Pointers-Tree.cpp) |  
+
+## Contribute
+
+* Incase, you feel that you have a better approach to solve a problem, please open a PR with your solution, and we can discuss on adding it to the repository. 
+
+* Incase you feel that the approach used is wrong, please file an issue, and we can discuss on how to improve on it.
+
+* Incase you feel there is some question that you would want me to solve or want to be a part of this repository, please file an issue or open a PR, and appropriate discussion will be done for the same.
