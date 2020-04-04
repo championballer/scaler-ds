@@ -31,12 +31,12 @@ Solutions to questions on Scaler Academy topic wise
 |13| Longest Palindromic Substring | [Here](/Codes/Strings/Longest-Palindromic-Substring.cpp)|
 |Stacks & Queues|||
 |0| Rain Water Trapped | [Here](/Codes/Stacks-And-Queues/Rain-Water-Trapped.cpp)|
-|1| Check two bracket expressions | [Here](/Codes/Stack-And-Queues/Check-Two-Bracket-Expressions.cpp)|
-|2| Evaluate Expression | [Here](/Codes/Stack-And-Queues/Evaluate-Expression.cpp)|
-|3| Simpilify Directory Path | [Here](/Codes/Stack-And-Queues/Simplify-Directory-Path.cpp)|
-|4| Redundant Braces | [Here](/Codes/Redundant-Braces.cpp)|
-|5| Nearest Smallest Element | [Here](/Codes/Nearest-Smallest-Element.cpp)|
-|6| Largest Rectangle in Histogram | [Here](/Codes/Largest-Rectangle-In-Histogram.cpp)|
+|1| Check two bracket expressions | [Here](/Codes/Stacks-And-Queues/Check-Two-Bracket-Expressions.cpp)|
+|2| Evaluate Expression | [Here](/Codes/Stacks-And-Queues/Evaluate-Expression.cpp)|
+|3| Simpilify Directory Path | [Here](/Codes/Stacks-And-Queues/Simplify-Directory-Path.cpp)|
+|4| Redundant Braces | [Here](/Codes/Stacks-And-Queues/Redundant-Braces.cpp)|
+|5| Nearest Smallest Element | [Here](/Codes/Stacks-And-Queues/Nearest-Small-Element.cpp)|
+|6| Largest Rectangle in Histogram | [Here](/Codes/Stacks-And-Queues/Largest-Rectangle-In-Histogram.cpp)|
 | Trees |||
 |0| 2 Sum Binary Tree | [Here](/Codes/Trees/2-Sum-Binary-Tree.cpp) | 
 |1| Balanced Binary Tree | [Here](/Codes/Trees/Balanced-Binary-Tree.cpp) | 
