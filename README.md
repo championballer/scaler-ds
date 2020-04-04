@@ -29,6 +29,14 @@ Solutions to questions on Scaler Academy topic wise
 |11| Custom Sort String| [Here](/Codes/Strings/Custom-Sort-String.cpp)|
 |12| Palindromic Substring Count| [Here](/Codes/Strings/Palindromic-Substring-Count.cpp)|
 |13| Longest Palindromic Substring | [Here](/Codes/Strings/Longest-Palindromic-Substring.cpp)|
+|Stacks & Queues|||
+|0| Rain Water Trapped | [Here](/Codes/Stacks-And-Queues/Rain-Water-Trapped.cpp)|
+|1| Check two bracket expressions | [Here](/Codes/Stack-And-Queues/Check-Two-Bracket-Expressions.cpp)|
+|2| Evaluate Expression | [Here](/Codes/Stack-And-Queues/Evaluate-Expression.cpp)|
+|3| Simpilify Directory Path | [Here](/Codes/Stack-And-Queues/Simplify-Directory-Path.cpp)|
+|4| Redundant Braces | [Here](/Codes/Redundant-Braces.cpp)|
+|5| Nearest Smallest Element | [Here](/Codes/Nearest-Smallest-Element.cpp)|
+|6| Largest Rectangle in Histogram | [Here](/Codes/Largest-Rectangle-In-Histogram.cpp)|
 | Trees |||
 |0| 2 Sum Binary Tree | [Here](/Codes/Trees/2-Sum-Binary-Tree.cpp) | 
 |1| Balanced Binary Tree | [Here](/Codes/Trees/Balanced-Binary-Tree.cpp) | 
@@ -50,6 +58,7 @@ Solutions to questions on Scaler Academy topic wise
 |17| Vertical Order traversal of Binary Tree | [Here](/Codes/Trees/Vertical-Order-Traversal-Of-Binary-Tree.cpp)|
 |18| Binary Tree Paths | [Here](/Codes/Trees/Binary-Tree-Paths.cpp)|
 |19| Valid BST |[Here](/Codes/Trees/Valid-BST.cpp)|
+
 
 
 ## Contribute
