@@ -27,6 +27,14 @@ Solutions to questions on Scaler Academy topic wise
 |9| Populate Next Right Pointers Tree | [Here](/Codes/Trees/Populate-Next-Right-Pointers-Tree.cpp) |  
 |10| Shortest Unique Prefix | [Here](/Codes/Trees/Shortest-Unique-Prefix.cpp) |
 |11| Order of Peoples' Heights | [Here](/Codes/Trees/Order-Of-Peoples-Heights.cpp)|
+|12| BST Iterator | [Here](/Codes/Trees/BST-Iterator.cpp)|
+|13| Zig Zag Level Order Traversal Binary Tree | [Here](/Codes/Trees/Zig-Zag-Level-Order-Traversal-BT.cpp)
+|14| Recover Binary Search Tree | [Here](/Codes/Trees/Recover-Binary-Search-Tree.cpp)|
+|15| Least Common Ancestor | [Here](/Codes/Trees/Least-Common-Ancestor.cpp) |
+|16| Flatten Binary Tree to Linked List | [Here](/Codes/Trees/Flatten-Binary-Tree-To-Linked-List.cpp)| 
+|17| Vertical Order traversal of Binary Tree | [Here](/Codes/Trees/Vertical-Order-Traversal-Of-Binary-Tree.cpp)|
+|18| Binary Tree Paths | [Here](/Codes/Trees/Binary-Tree-Paths.cpp)|
+|19| Valid BST |[Here](/Codes/Trees/Valid-BST.cpp)|
 
 ## Contribute
 
