@@ -64,6 +64,10 @@ Solutions to questions on Scaler Academy topic wise
 |17| Vertical Order traversal of Binary Tree | [Here](/Codes/Trees/Vertical-Order-Traversal-Of-Binary-Tree.cpp)|
 |18| Binary Tree Paths | [Here](/Codes/Trees/Binary-Tree-Paths.cpp)|
 |19| Valid BST |[Here](/Codes/Trees/Valid-BST.cpp)|
+|20| Min Depth of Binary Tree|[Here](/Codes/Trees/Min-Depth-Binary-Tree.cpp)|
+|21| Kth Smallest Element in BST|[Here](/Codes/Trees/Kth-Smallest-Element-BST.cpp)|
+|22| Sum binary tree or not|[Here](/Codes/Trees/Sum-Binary-Tree-Or-Not.cpp)|
+|23| Count Complete Tree Nodes|[Here](/Codes/Trees/Count-Complete-Tree-Nodes.cpp)|
 
 
 
