@@ -20,6 +20,7 @@ Solutions to questions on Scaler Academy topic wise
 |2| Minimize the absolute difference | [Here](/Codes/Two-Pointer/Minimize-The-Absolute-Difference.cpp) | 
 |3| Range booking | [Here](/Codes/Two-Pointer/Range-Booking.cpp) | 
 |4| Yuktapur | [Here](/Codes/Two-Pointer/Yuktapur.cpp) |
+|5| Find a subarray with the given sum| [Here](/Codes/Find-Subarray-With-The-Given-Sum.cpp)|
 |Strings|||
 |0| Longest Common Prefix|[Here](/Codes/Strings/Longest-Common-Prefix.cpp) |
 |1| Minimum Characters required to make a String Palindromic | [Here](/Codes/Strings/Minimum-Characters-Required-To-Make-A-String-Palindromic.cpp)|
