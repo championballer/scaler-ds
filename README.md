@@ -1,5 +1,5 @@
 # Scaler-DS
-Solutions to questions on Scaler Academy topic wise
+My solutions to questions on Scaler Academy topic wise
 
 ## Questions solved:
 
