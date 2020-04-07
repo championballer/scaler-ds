@@ -20,7 +20,8 @@ Solutions to questions on Scaler Academy topic wise
 |2| Minimize the absolute difference | [Here](/Codes/Two-Pointer/Minimize-The-Absolute-Difference.cpp) | 
 |3| Range booking | [Here](/Codes/Two-Pointer/Range-Booking.cpp) | 
 |4| Yuktapur | [Here](/Codes/Two-Pointer/Yuktapur.cpp) |
-|5| Find a subarray with the given sum| [Here](/Codes/Find-Subarray-With-The-Given-Sum.cpp)|
+|5| Find a subarray with the given sum| [Here](/Codes/Two-Pointer/Find-Subarray-With-The-Given-Sum.cpp)|
+|6| Count of rectangles with area less than the given number | [Here](/Codes/Two-Pointer/Count-Of-Rectangles-With-Area-Less-Than-The-Given-Number.cpp)|
 |Strings|||
 |0| Longest Common Prefix|[Here](/Codes/Strings/Longest-Common-Prefix.cpp) |
 |1| Minimum Characters required to make a String Palindromic | [Here](/Codes/Strings/Minimum-Characters-Required-To-Make-A-String-Palindromic.cpp)|
@@ -82,6 +83,15 @@ Solutions to questions on Scaler Academy topic wise
 |21| Kth Smallest Element in BST|[Here](/Codes/Trees/Kth-Smallest-Element-BST.cpp)|
 |22| Sum binary tree or not|[Here](/Codes/Trees/Sum-Binary-Tree-Or-Not.cpp)|
 |23| Count Complete Tree Nodes|[Here](/Codes/Trees/Count-Complete-Tree-Nodes.cpp)|
+|Heaps|||
+|0| Inversions| [Here](/Codes/Heaps/Inversions.cpp)|
+|1| Minimum largest element after K operations | [Here](/Codes/Heaps/Minimum-Largest-Element-After-K-Operations.cpp)|
+|2| B Closest Points to Origin | [Here](/Codes/Heaps/B-Closest-Points-To-Origin.cpp)|
+|3| Help the TA |[Here](/Codes/Heaps/Help-The-TA.cpp)|
+|4| Connect Ropes with min length| [Here](/Codes/Heaps/Connect-Ropes-With-Minimum-Length.cpp)|
+|5| LRU Cache | [Here](/Codes/Heaps/LRU-Cache.cpp)|
+|6| Maximum array sum after B negations | [Here](/Codes/Heaps/Maximum-Array-Sum-After-B-Negations.cpp)|
+|7| Meeting Rooms| [Here](/Codes/Heaps/Meeting-Rooms.cpp)|
 
 
 
