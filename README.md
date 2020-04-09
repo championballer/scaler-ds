@@ -92,6 +92,14 @@ My solutions to questions on Scaler Academy topic wise
 |5| LRU Cache | [Here](/Codes/Heaps/LRU-Cache.cpp)|
 |6| Maximum array sum after B negations | [Here](/Codes/Heaps/Maximum-Array-Sum-After-B-Negations.cpp)|
 |7| Meeting Rooms| [Here](/Codes/Heaps/Meeting-Rooms.cpp)|
+|Hashing|||
+|0|Longest Consecutive Sequence|[Here](/Codes/Hashing/Longest-Consecutive-Sequence.cpp)|
+|1|Anagrams|[Here](/Codes/Hashing/Anagrams.cpp)|
+|2|Palindrome Pairs|[Here](/Codes/Hashing/Palindrome-Pairs.cpp)|
+|3|Sort an array according to the order defined by another array|[Here](/Codes/Hashing/Sort-Array-In-Order-Defined-By-Another-Array.cpp)
+|4|Subarray sum equals K | [Here](/Codes/Hashing/Subarray-Sum-Equals-K.cpp)|
+|5|Valid Sudoku |[Here](/Codes/Hashing/Valid-Sudoku.cpp)|
+|6|Contiguous Array |[Here](/Codes/Hashing/Contiguous-Array.cpp)|
 
 
 
