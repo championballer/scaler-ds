@@ -5,6 +5,7 @@ My solutions to questions on Scaler Academy topic wise
 
 | Topic | Question | Solution |
 | ----- | -------- | -------- |
+|Arrays|||
 | Maths |||
 |0| Rectangle Area | [Here](/Codes/Maths/Rectange-Area.cpp) |
 |1| Trailing Zeros | [Here](/Codes/Maths/Trailing-Zeros.cpp) |
@@ -37,6 +38,9 @@ My solutions to questions on Scaler Academy topic wise
 |11| Custom Sort String| [Here](/Codes/Strings/Custom-Sort-String.cpp)|
 |12| Palindromic Substring Count| [Here](/Codes/Strings/Palindromic-Substring-Count.cpp)|
 |13| Longest Palindromic Substring | [Here](/Codes/Strings/Longest-Palindromic-Substring.cpp)|
+|Bit Manipulation|||
+|Binary Search|||
+|Backtracking|||
 |Linked List|||
 |0| Merge Two Sorted Lists|[Here](/Codes/Linked-List/Merge-Two-Sorted-Lists.cpp)|
 |1| Delete Middle Node of a Link List|[Here](/Codes/Linked-List/Delete-Middle-Node-Of-A-Linked-List.cpp)|
@@ -100,6 +104,10 @@ My solutions to questions on Scaler Academy topic wise
 |4|Subarray sum equals K | [Here](/Codes/Hashing/Subarray-Sum-Equals-K.cpp)|
 |5|Valid Sudoku |[Here](/Codes/Hashing/Valid-Sudoku.cpp)|
 |6|Contiguous Array |[Here](/Codes/Hashing/Contiguous-Array.cpp)|
+|Greedy Algorithm|||
+||||
+|Dynamic Programming|||
+|Graphs|||
 
 
 
